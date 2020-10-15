@@ -21,8 +21,14 @@
 | UAD               | 3    | ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) `#ff0000`  | 
 | Kun SAR-oppdrag** | 5    | ![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+) `#ff0000`  |
 
-**Ikke implementert ennå
+**Ikke implementert ennå**
 
+```json
+{
+  "state": "0",
+  "state_description": "Operativ",
+}
+```
 
 
 ## ExtendedStates
