@@ -46,9 +46,9 @@ Eksempel på felter fra feed:
 
 | Navn                     | Kode | Farge                                         |
 |:------------------------ | ---- | --------------------------------------------- |
-| Ledig, på basen/patrulje | 0    | ![#008000](https://via.placeholder.com/15/008000/000000?text=+) `#008000` |
-| Kun SAR-oppdrag**        | 5    | ![#335EFF](https://via.placeholder.com/15/335EFF/000000?text=+) `#335EFF` |
-| 30 min beredskap         | 1    | ![#ffd203](https://via.placeholder.com/15/ffd203/000000?text=+) `#ffd203` |
+| Ledig, på basen/patrulje | 0    | ![#33CC33](https://via.placeholder.com/15/33CC33/000000?text=+) `#33CC33` |
+| Kun SAR-oppdrag**        | 5    | ![#0066FF](https://via.placeholder.com/15/0066FF/000000?text=+) `#0066FF` |
+| 30 min beredskap         | 1    | ![#ff9933](https://via.placeholder.com/15/ff9933/000000?text=+) `#ff9933` |
 | UAD                      | 3    | ![#ff0000](https://via.placeholder.com/15/ff000/000000?text=+) `#ff0000` |
 | På oppdrag               | 4    | ![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+) `#ffff00` |
 
