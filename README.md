@@ -14,12 +14,12 @@
 
 - Brukes FRR, RS App.
 
-| Navn              | Kode | Farge                                         | Fargekode |
-| ----------------- | ---- | --------------------------------------------- | --------- |
-| Operativ          | 0    | <span style="color: #33CC33">GRØNN</span>     | #33CC33   |
-| 30 min beredskap  | 1    | <span style="color: #90ee90">LYS GRØNN</span> | #90ee90   |
-| UAD               | 3    | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`       | #ff0000   |
-| Kun SAR-oppdrag** | 5    | <span style="color: #ffff00">GUL</span>       | #ffff00   |
+| Navn              | Kode | Farge                                         |
+| ----------------- | ---- | --------------------------------------------- |
+| Operativ          | 0    | ![#33CC33](https://via.placeholder.com/15/f03c15/000000?text=+) `#33CC33`  | 
+| 30 min beredskap  | 1    | ![#90ee90](https://via.placeholder.com/15/f03c15/000000?text=+) `##90ee90` | 
+| UAD               | 3    | ![#ff0000](https://via.placeholder.com/15/f03c15/000000?text=+) `#ff0000`  | 
+| Kun SAR-oppdrag** | 5    | ![#ff0000](https://via.placeholder.com/15/f03c15/000000?text=+) `#ff0000`  |
 
 **Ikke implementer ennå
 
