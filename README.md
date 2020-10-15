@@ -18,7 +18,7 @@
 | ----------------- | ---- | --------------------------------------------- | --------- |
 | Operativ          | 0    | <span style="color: #33CC33">GRØNN</span>     | #33CC33   |
 | 30 min beredskap  | 1    | <span style="color: #90ee90">LYS GRØNN</span> | #90ee90   |
-| UAD               | 3    | <span style="color: #ff0000">RØD</span>       | #ff0000   |
+| UAD               | 3    | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`       | #ff0000   |
 | Kun SAR-oppdrag** | 5    | <span style="color: #ffff00">GUL</span>       | #ffff00   |
 
 **Ikke implementer ennå
