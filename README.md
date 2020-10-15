@@ -21,7 +21,7 @@
 | UAD               | 3    | ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) `#ff0000`  | 
 | Kun SAR-oppdrag** | 5    | ![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+) `#ff0000`  |
 
-**Ikke implementer ennå
+**Ikke implementert ennå
 
 
 
