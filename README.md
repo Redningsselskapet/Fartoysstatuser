@@ -4,7 +4,7 @@
 
 - Disse statusene skrives fra RO og inn til MDS
 
-- Eksponeres ut i alle feed'ene våre:  
+- Eksponeres ut i feed'ene våre:  
   
   - https://skoytestasjonapi.rs.no/prefetch/getboats
   
