@@ -16,10 +16,10 @@
 
 | Navn              | Kode | Farge                                         |
 | ----------------- | ---- | --------------------------------------------- |
-| Operativ          | 0    | ![#33CC33](https://via.placeholder.com/15/f03c15/000000?text=+) `#33CC33`  | 
-| 30 min beredskap  | 1    | ![#90ee90](https://via.placeholder.com/15/f03c15/000000?text=+) `##90ee90` | 
-| UAD               | 3    | ![#ff0000](https://via.placeholder.com/15/f03c15/000000?text=+) `#ff0000`  | 
-| Kun SAR-oppdrag** | 5    | ![#ff0000](https://via.placeholder.com/15/f03c15/000000?text=+) `#ff0000`  |
+| Operativ          | 0    | ![#33CC33](https://via.placeholder.com/15/33CC33/000000?text=+) `#33CC33`  | 
+| 30 min beredskap  | 1    | ![#90ee90](https://via.placeholder.com/15/90ee90/000000?text=+) `#90ee90` | 
+| UAD               | 3    | ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) `#ff0000`  | 
+| Kun SAR-oppdrag** | 5    | ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) `#ff0000`  |
 
 **Ikke implementer ennå
 
