@@ -33,8 +33,8 @@
 
 - Brukes av RO gui, CO gui 
 
-| Navn                     | Kode | Farge                                         | Fargekode |
-|:------------------------ | ---- | --------------------------------------------- | --------- |
+| Navn                     | Kode | Farge                                         |
+|:------------------------ | ---- | --------------------------------------------- |
 | Ledig, på basen/patrulje | 0    | ![#008000](https://via.placeholder.com/15/008000/000000?text=+) `#008000` |
 | Kun SAR-oppdrag**        | 5    | ![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+) `#ffff00` |
 | 30 min beredskap         | 1    | ![#90ee90](https://via.placeholder.com/15/90ee90/000000?text=+) `#90ee90` |
