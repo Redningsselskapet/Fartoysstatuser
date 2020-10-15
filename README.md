@@ -1,7 +1,7 @@
 # RS STATUSER
 
 Tony's model:
-- https://skoytestasjonapi.rs.no/prefetch/getboats
+- https://github.com/Redningsselskapet/Fartoysstatuser/blob/Tonys-forslag/Statuser.pdf
 
 ## Offisielle statuser (MDS)
 
