@@ -55,7 +55,7 @@
 
 Eksempel på status visning fra CO:
 
-![](C:\Users\bernt\AppData\Roaming\marktext\images\2020-10-15-11-08-13-image.png)
+![](https://github.com/Redningsselskapet/Fartoysstatuser/edit/main/img/co.png)
 
 
 
