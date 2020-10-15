@@ -26,6 +26,10 @@
 Eksempel på felter fra feed:
 ```json
 {
+  "merknad": {},
+  "aarsak": "Ingen årsak",
+  "aarsak_id": "0",
+  "forventet_tilbake": {},
   "state": "0",
   "state_description": "Operativ",
 }
