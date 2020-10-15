@@ -1,5 +1,8 @@
 # RS STATUSER
 
+Tony's model:
+- https://skoytestasjonapi.rs.no/prefetch/getboats
+
 ## Offisielle statuser (MDS)
 
 - Disse statusene skrives fra RO og inn til MDS
