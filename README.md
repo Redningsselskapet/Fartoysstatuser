@@ -55,7 +55,7 @@
 
 Eksempel på status visning fra CO:
 
-![](https://github.com/Redningsselskapet/Fartoysstatuser/edit/main/img/co.png)
+![](https://github.com/Redningsselskapet/Fartoysstatuser/blob/main/img/co.PNG)
 
 
 
