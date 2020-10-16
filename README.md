@@ -60,15 +60,7 @@ Eksempel på felter fra feed (dagens feed):
 | Operasjonelt             | ?    | ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) `#ff0000` | 3 |
 | Hviletid                 | ?    | ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) `#ff0000` | 3 |
 
-> **Ikke implementert ennå
->
-> 
-> RO viser ikke tekst, bare farge
-> 
-> CO viser tekst og farge
 
-
-
-Eksempel på status visning fra CO:
+Kan for eksempel vises slik i CO:
 
 ![](https://github.com/Redningsselskapet/Fartoysstatuser/blob/Tonys-forslag/img/status-tony.PNG)
