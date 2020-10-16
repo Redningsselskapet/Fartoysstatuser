@@ -1,4 +1,4 @@
-# RS STATUSER
+# RS STATUSER - Tony's forslag
 
 Tony's model:
 - https://github.com/Redningsselskapet/Fartoysstatuser/blob/Tonys-forslag/Statuser.pdf
