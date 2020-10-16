@@ -17,7 +17,7 @@ Tony's model:
 
 - Brukes FRR, RS Safetrx.
 
-| state_description              | state | Farge                                         |
+| state_description              | state | Farge                                         
 | ----------------- | ---- | --------------------------------------------- |
 | Operativ          | 0    | ![#33CC33](https://via.placeholder.com/15/33CC33/000000?text=+) `#33CC33`  | 
 | Redusert          | 1    | ![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+) `#ffff00`  | 
@@ -41,24 +41,24 @@ Eksempel på felter fra feed (dagens feed):
 
 ## Årsaker og understatuser
 
-| aarsak              | aarsak_id | Farge                                         |
-|:------------------------ | ---- | --------------------------------------------- |
-| Normal                   | ?    | ![#33CC33](https://via.placeholder.com/15/33CC33/000000?text=+) `#33CC33` |
-| Ledig på basen           | ?    | ![#33CC33](https://via.placeholder.com/15/33CC33/000000?text=+) `#33CC33` |
-| Ledig på oppdrag         | ?    | ![#33CC33](https://via.placeholder.com/15/33CC33/000000?text=+) `#33CC33` |
-| 30 min beredskap         | ?    | ![#33CC33](https://via.placeholder.com/15/33CC33/000000?text=+) `#33CC33` |
-| Forflytning              | ?    | ![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+) `#ffff00` |
-| Personell                | ?    | ![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+) `#ffff00` |
-| Teknisk planlagt         | ?    | ![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+) `#ffff00` |
-| Hviletid                 | ?    | ![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+) `#ffff00` |
-| Operasjonelt             | ?    | ![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+) `#ffff00` |
-| Kun SAR-oppdrag          | ?    | ![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+) `#ffff00` |
-| Teknisk uplanlagt        | ?    | ![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+) `#ffff00` |
-| Forflytning              | ?    | ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) `#ff0000` |
-| Personell                | ?    | ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) `#ff0000` |
-| Teknisk planlagt         | ?    | ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) `#ff0000` |
-| Operasjonelt             | ?    | ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) `#ff0000` |
-| Hviletid                 | ?    | ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) `#ff0000` |
+| aarsak              | aarsak_id | Farge                                         | Relatert til state        |
+|:------------------------ | ---- | --------------------------------------------- |---------------------------|0|
+| Normal                   | ?    | ![#33CC33](https://via.placeholder.com/15/33CC33/000000?text=+) `#33CC33` |0|
+| Ledig på basen           | ?    | ![#33CC33](https://via.placeholder.com/15/33CC33/000000?text=+) `#33CC33` |0|
+| Ledig på oppdrag         | ?    | ![#33CC33](https://via.placeholder.com/15/33CC33/000000?text=+) `#33CC33` |0|
+| 30 min beredskap         | ?    | ![#33CC33](https://via.placeholder.com/15/33CC33/000000?text=+) `#33CC33` |1|
+| Forflytning              | ?    | ![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+) `#ffff00` |1|
+| Personell                | ?    | ![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+) `#ffff00` |1|
+| Teknisk planlagt         | ?    | ![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+) `#ffff00` |1|
+| Hviletid                 | ?    | ![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+) `#ffff00` |1|
+| Operasjonelt             | ?    | ![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+) `#ffff00` |1|
+| Kun SAR-oppdrag          | ?    | ![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+) `#ffff00` |1|
+| Teknisk uplanlagt        | ?    | ![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+) `#ffff00` |1|
+| Forflytning              | ?    | ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) `#ff0000` |1|
+| Personell                | ?    | ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) `#ff0000` |3|
+| Teknisk planlagt         | ?    | ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) `#ff0000` |3|
+| Operasjonelt             | ?    | ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) `#ff0000` |3|
+| Hviletid                 | ?    | ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) `#ff0000` |3|
 
 > **Ikke implementert ennå
 >
