@@ -1,4 +1,4 @@
-# RS STATUSER
+# RS STATUSER - Slik det er i dag
 
 ## Offisielle statuser (MDS)
 
