@@ -21,7 +21,17 @@
 | UAD               | 3    | ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) `#ff0000`  | 
 | Kun SAR-oppdrag** | 5    | ![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+) `#ffff00`  |
 
->**Ikke implementert ennå
+>**Ikke implementert ennå - ligger på test
+
+| aarsak              | aarsak_id | Farge                                         |
+|:------------------------ | ---- | --------------------------------------------- |
+| Ingen årsak              | 0    | N/A |
+| Personell                | 1    | N/A |
+| Teknisk planlagt         | 2    | N/A |
+| Teknisk uplanlagt        | 3    | N/A |
+| Forflytning              | 4    | N/A |
+| Hviletid                 | 5    | N/A |
+| Operasjonelt             | 6    | N/A |
 
 Eksempel på felter fra feed:
 ```json
