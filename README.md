@@ -77,7 +77,7 @@ Eksempel på felter fra feed (dagens feed):
 
 Eksempel på status visning fra CO:
 
-![](https://github.com/Redningsselskapet/Fartoysstatuser/blob/main/img/co.PNG)
+![](https://github.com/Redningsselskapet/Fartoysstatuser/blob/Tonys-forslag/img/status-tony.PNG)
 
 
 
