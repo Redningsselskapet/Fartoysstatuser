@@ -1,4 +1,4 @@
-# RS STATUSER
+# RS STATUSER - Mortens forslag
 
 ## Offisielle statuser (MDS)
 
