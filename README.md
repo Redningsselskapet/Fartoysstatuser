@@ -15,9 +15,9 @@ Tony's model:
   
   - https://skoytestasjonapi.rs.no/prefetch/iphone
 
-- Brukes FRR, RS App.
+- Brukes FRR, RS Safetrx.
 
-| Navn              | Kode | Farge                                         |
+| state_description              | state | Farge                                         |
 | ----------------- | ---- | --------------------------------------------- |
 | Operativ          | 0    | ![#33CC33](https://via.placeholder.com/15/33CC33/000000?text=+) `#33CC33`  | 
 | Redusert          | 1    | ![#90ee90](https://via.placeholder.com/15/90ee90/000000?text=+) `#90ee90`  | 
@@ -26,7 +26,7 @@ Tony's model:
 
 >**Ikke implementert ennå
 
-Eksempel på felter fra feed:
+Eksempel på felter fra feed (dagens feed):
 ```json
 {
   "merknad": {},
@@ -47,7 +47,7 @@ Eksempel på felter fra feed:
 
 - Brukes av RO gui, CO gui 
 
-| Årsak Navn               | ÅrsaksID | Farge                                         |
+| aarsak              | aarsak_id | Farge                                         |
 |:------------------------ | ---- | --------------------------------------------- |
 | Normal                   | ?    | ![#33CC33](https://via.placeholder.com/15/33CC33/000000?text=+) `#33CC33` |
 | Ledig på basen           | ?    | ![#33CC33](https://via.placeholder.com/15/33CC33/000000?text=+) `#33CC33` |
