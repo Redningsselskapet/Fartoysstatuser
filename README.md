@@ -39,7 +39,7 @@ Eksempel på felter fra feed:
 ```
 
 
-## ExtendedStates
+## Årsaker og understatuser
 
 - Status'ene settes i ro på bakgrunn av det som sendes inn fra kystradion.
 
@@ -47,15 +47,24 @@ Eksempel på felter fra feed:
 
 - Brukes av RO gui, CO gui 
 
-| Navn                     | Kode | Farge                                         |
+| Årsak Navn               | ÅrsaksID | Farge                                         |
 |:------------------------ | ---- | --------------------------------------------- |
-| Ledig, på basen/patrulje | 0    | ![#008000](https://via.placeholder.com/15/008000/000000?text=+) `#008000` |
-| Kun SAR-oppdrag**        | 5    | ![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+) `#ffff00` |
-| 30 min beredskap         | 1    | ![#90ee90](https://via.placeholder.com/15/90ee90/000000?text=+) `#90ee90` |
-| UAD                      | 3    | ![#ff0000](https://via.placeholder.com/15/ff000/000000?text=+) `#ff0000` |
-| På oppdrag               | 4    | ![#ffd203](https://via.placeholder.com/15/ffd203/000000?text=+) `#ffd203` |
-
-
+| Normal                   | ?    | ![#33CC33](https://via.placeholder.com/15/33CC33/000000?text=+) `#33CC33` |
+| Ledig på basen           | ?    | ![#33CC33](https://via.placeholder.com/15/33CC33/000000?text=+) `#33CC33` |
+| Ledig på oppdrag         | ?    | ![#33CC33](https://via.placeholder.com/15/33CC33/000000?text=+) `#33CC33` |
+| 30 min beredskap         | ?    | ![#33CC33](https://via.placeholder.com/15/33CC33/000000?text=+) `#33CC33` |
+| Forflytning              | ?    | ![##ffff00](https://via.placeholder.com/15/#ffff00/000000?text=+) `##ffff00` |
+| Personell                | ?    | ![##ffff00](https://via.placeholder.com/15/#ffff00/000000?text=+) `##ffff00` |
+| Teknisk planlagt         | ?    | ![##ffff00](https://via.placeholder.com/15/#ffff00/000000?text=+) `##ffff00` |
+| Hviletid                 | ?    | ![##ffff00](https://via.placeholder.com/15/#ffff00/000000?text=+) `##ffff00` |
+| Operasjonelt             | ?    | ![##ffff00](https://via.placeholder.com/15/#ffff00/000000?text=+) `##ffff00` |
+| Kun SAR-oppdrag          | ?    | ![##ffff00](https://via.placeholder.com/15/#ffff00/000000?text=+) `##ffff00` |
+| Teknisk uplanlagt        | ?    | ![##ffff00](https://via.placeholder.com/15/#ffff00/000000?text=+) `##ffff00` |
+| Forflytning              | ?    | ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) `#ff0000` |
+| Personell                | ?    | ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) `#ff0000` |
+| Teknisk planlagt         | ?    | ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) `#ff0000` |
+| Operasjonelt             | ?    | ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) `#ff0000` |
+| Hviletid                 | ?    | ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) `#ff0000` |
 
 > **Ikke implementert ennå
 >
