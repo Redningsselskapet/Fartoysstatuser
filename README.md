@@ -81,7 +81,7 @@ Eksempel på status visning fra CO:
 
 
 
-Exempel på extendedState objekt i getboats feed:
+Exempel på extendedState objekt i getboats feed: (Denne utgår vel da i din løsning Tony?)
 
 ```json
 "extendedState": {
