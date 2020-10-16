@@ -41,12 +41,6 @@ Eksempel på felter fra feed (dagens feed):
 
 ## Årsaker og understatuser
 
-- Status'ene settes i ro på bakgrunn av det som sendes inn fra kystradion.
-
-- RO eksponerer dette ut, som igjen bakes inn i feed'en https://skoytestasjonapi.rs.no/prefetch/getboats under objectet extendedState.
-
-- Brukes av RO gui, CO gui 
-
 | aarsak              | aarsak_id | Farge                                         |
 |:------------------------ | ---- | --------------------------------------------- |
 | Normal                   | ?    | ![#33CC33](https://via.placeholder.com/15/33CC33/000000?text=+) `#33CC33` |
@@ -78,17 +72,3 @@ Eksempel på felter fra feed (dagens feed):
 Eksempel på status visning fra CO:
 
 ![](https://github.com/Redningsselskapet/Fartoysstatuser/blob/Tonys-forslag/img/status-tony.PNG)
-
-
-
-Exempel på extendedState objekt i getboats feed: (Denne utgår vel da i din løsning Tony?)
-
-```json
-"extendedState": {
-"StatusId": 0,
-"StatusText": "Ledig, på basen/patrulje",
-"ColorCode": "#008000"
-}
-```
-
-
