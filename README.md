@@ -20,7 +20,7 @@ Tony's model:
 | state_description              | state | Farge                                         |
 | ----------------- | ---- | --------------------------------------------- |
 | Operativ          | 0    | ![#33CC33](https://via.placeholder.com/15/33CC33/000000?text=+) `#33CC33`  | 
-| Redusert          | 1    | ![#90ee90](https://via.placeholder.com/15/90ee90/000000?text=+) `#90ee90`  | 
+| Redusert          | 1    | ![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+) `#ffff00`  | 
 | UAD               | 3    | ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) `#ff0000`  | 
 
 
