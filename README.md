@@ -83,9 +83,9 @@ Exempel på extendedState objekt i getboats feed:
 
 ```json
 "extendedState": {
-"StatusId": 0,
-"StatusText": "Ledig, på basen/patrulje",
-"ColorCode": "#008000"
+"StatusId": 3,
+"StatusText": "UAD",
+"ColorCode": "#ff0000"
 }
 ```
 
